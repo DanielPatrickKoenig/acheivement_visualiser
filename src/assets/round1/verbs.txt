@@ -1,0 +1,104 @@
+{
+    "ach_62_08/29/18 13:47:01": {
+        "v": "I had a desk in Lake Superior and decided to get some natural light, so I spent the last few hours of the afternoon sitting in the high-backed collaboration space in Lake Michigan. It was glorious!",
+        "a": 1,
+        "gamertag": "dogPhillips",
+        "user": 62
+    },
+    "ach_54_08/29/18 16:37:32": {
+        "v": "The light is nice in the room, plus it's close to the lunch room, a balcony, and my COE room.",
+        "a": 2,
+        "gamertag": "dayEspinoza",
+        "user": 54
+    },
+    "ach_25_08/29/18 17:17:36": {
+        "v": "I relocated to the booths just outside of the kitchen to have a more collaborative environment rather than working in isolation. I have found it easier to bounch ideas off of coworkers and create a more productive environment!",
+        "a": 1,
+        "gamertag": "beforeWright",
+        "user": 25
+    },
+    "ach_131_08/29/18 20:30:35": {
+        "v": "I worked outside on one of the balconies to get some fresh air, and warm up from the cold AC :) It was great to work outside for a bit, when I have traditionally gotten so used to working only indoors.",
+        "a": 1,
+        "gamertag": "leadHolland",
+        "user": 131
+    },
+    "ach_105_08/29/18 20:58:39": {
+        "v": "I was able to have a one-on-one with my manager outside on the balcony. And instead of huddling with a teammate to work through questionnaire feedback, we both undocked and found a collaboration space to hook up to a big screen and work together. And...I was able to take advantage of a quiet booth to quickly regain focus and knock out a task I was procrastinating.",
+        "a": 1,
+        "gamertag": "guessBlankenship",
+        "user": 105
+    },
+    "ach_23_08/30/18 18:44:11": {
+        "v": "i spent some time at a desk, but didn't need multiple screens for the work i was doing, but still needed focus. i sat in a pod, with music playing and was able to work comfortably. and when i start feeling cold, i work out on the balcony for a bit. i try to stay near natural light - it makes me happier! ",
+        "a": 1,
+        "gamertag": "becomeRodriguez",
+        "user": 23
+    },
+    "ach_131_08/30/18 18:56:21": {
+        "v": "Lake Huron is the best neighborhood!! I love being so close to the kitchen and the booth area is a great spot",
+        "a": 2,
+        "gamertag": "leadHolland",
+        "user": 131
+    },
+    "ach_151_08/31/18 13:53:50": {
+        "v": "It's a Friday - and a beautiful one at that.  U wasn't able to book a desk by a window so I sat in the 'Living Room' area.  It was the perfect space for my mood today!",
+        "a": 1,
+        "gamertag": "moreAguilar",
+        "user": 151
+    },
+    "ach_114_08/31/18 15:22:27": {
+        "v": "cast workload to do board to a monitor without having to move to another room",
+        "a": 1,
+        "gamertag": "hotColeman",
+        "user": 114
+    },
+    "ach_51_08/31/18 17:10:58": {
+        "v": "As a Sr. DIA who is starting to write reports, I am realizing I need to get better at visualizing reports. What normally would be a formal training in a conference room turned into watching Beth work on my report at one of the \"booths\" while I take notes and get to know her. Would not have happened this way at the old office. We would have had to work around schedules and book a room rather than jump in at the moment and collaborate.",
+        "a": 1,
+        "gamertag": "costHolmes",
+        "user": 51
+    },
+    "ach_121_09/03/18 14:03:40": {
+        "v": "Connected to the kitchen - no key needed. Insanely bright with natural light.",
+        "a": 2,
+        "gamertag": "indicateCruz",
+        "user": 121
+    },
+    "ach_98_09/04/18 12:20:18": {
+        "v": "Had a 1:1 on the balcony - it was a nice change of pace and really allowed for great conversation while enjoying the sunshine",
+        "a": 1,
+        "gamertag": "futureCampos",
+        "user": 98
+    },
+    "ach_80_09/04/18 18:30:00": {
+        "v": "Lake Michigan is the place to be. Sunlight galore, lots of energy, collaboration city, etc. You can't go wrong sitting in Lake Michigan, if you love working with a view!",
+        "a": 2,
+        "gamertag": "evidenceSmith",
+        "user": 80
+    },
+    "ach_145_09/06/18 13:19:04": {
+        "v": "Workign in LH this morning, was able to pop into the call center area for a client call, and then back out.  An hour later, was able to go into phone booth for a personal call from Blake's school. Easy peasy!",
+        "a": 1,
+        "gamertag": "memberRuiz",
+        "user": 145
+    },
+    "ach_25_09/10/18 16:32:33": {
+        "v": "I like spending time in Lake Michigan because there are always a lot of people around to ask quesitons/bounce ideas off of! I think it's the most high traffic area",
+        "a": 2,
+        "gamertag": "beforeWright",
+        "user": 25
+    },
+    "ach_79_09/10/18 18:05:14": {
+        "v": "I prefer Lake Michigan because it has great natural light/views and a variety of different types of desks/work areas (some more open, others more tucked away). Plus I feel like it is more centrally located, which is convenient.",
+        "a": 2,
+        "gamertag": "everyoneMartin",
+        "user": 79
+    },
+    "ach_24_09/10/18 21:23:57": {
+        "v": "Huron is a great neighborhood b/c of all the windows and easy access to the employee lounge!",
+        "a": 2,
+        "gamertag": "beforeMartinez",
+        "user": 24
+    }
+}
